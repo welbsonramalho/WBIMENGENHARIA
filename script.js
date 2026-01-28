@@ -1,0 +1,1 @@
+// Futuro: animações, efeitos, etc.
